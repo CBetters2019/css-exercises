@@ -1,8 +1,19 @@
 .odd {
-    background-color: rgb(rgb(224, 157, 161));
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: rgb(rgb(223, 105, 113));
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.cooler.class {
+.header {
     font-size: 24px;
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#even {
+    background-color: rgb(108, 187, 108);
+    font-size: 24px;
+    font-weight: bold;
 }
