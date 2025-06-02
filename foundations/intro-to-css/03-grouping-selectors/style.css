@@ -3,3 +3,11 @@
     font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 
+.yellow.and.black {
+    background-color: yellow;
+}
+
+.black.and.white {
+    background-color: black;
+    color: white;
+}
