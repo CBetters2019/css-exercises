@@ -4,9 +4,10 @@
 }
 
 .click.black {
-
+    background-color: black;
+    color: white;
 }
 
 .click.yellow {
-
+    background-color: yellow;
 }
